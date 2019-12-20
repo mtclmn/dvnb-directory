@@ -181,6 +181,7 @@ main input.search {
 	margin-left: auto;
 	text-align: right;
 	text-transform: uppercase;
+	color: var(--color-midnight);
 }
 main input.search:focus {
 	outline: none;
@@ -248,7 +249,7 @@ main input.search:focus:placeholder-shown {
 	text-decoration: none;
 	padding: 0.5rem 0;
 	color: var(--color-midnight);
-	font-size: 1.5rem;
+	font-size: 1.4rem;
 	position: relative;
 }
 .the-list li a:hover {
@@ -431,5 +432,8 @@ form button:hover, form button:focus {
 	}
 	.the-list div > span {
 		min-width: 8rem;
+	}
+	.the-list li a {
+		font-size: 1.75rem;
 	}
 }

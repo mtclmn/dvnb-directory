@@ -592,3 +592,63 @@
   url: https://byhumankind.com/
   cat:
   - cpg
+- name: Thelma
+  url: https://shopthelma.com/
+  cat:
+  - footwear
+- name: Dims
+  url: https://www.dimshome.com/
+  cat:
+  - home
+- name: Off Hours
+  url: https://offhours.co/
+  cat:
+  - apparel
+- name: Maiden Home
+  url: https://maidenhome.com/
+  cat:
+  - home
+- name: Asket
+  url: https://www.asket.com/
+  cat:
+  - apparel
+- name: Act+Acre
+  url: https://actandacre.com/
+  cat:
+  - hair
+- name: Baggu
+  url: https://baggu.com/
+  cat:
+  - bags
+- name: Soludos
+  url: https://www.soludos.com/
+  cat:
+  - footwear
+- name: Krewe
+  url: https://www.krewe.com/
+  cat:
+  - optical
+- name: A.N. Other
+  url: https://an-other.com/
+  cat:
+  - fragrance
+- name: Gantri
+  url: https://www.gantri.com/
+  cat:
+  - home
+- name: Billie
+  url: https://mybillie.com/
+  cat:
+  - cpg
+- name: Rothy's
+  url: https://rothys.com/
+  cat:
+  - footwear
+- name: The Sill
+  url: https://www.thesill.com/
+  cat:
+  - home
+- name: Taft
+  url: https://taftclothing.com/
+  cat:
+  - footwear
