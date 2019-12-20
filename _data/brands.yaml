@@ -1,0 +1,586 @@
+---
+# BRANDS
+- name: Aloha
+  url: https://aloha.com/
+  cat:
+  - wellness
+- name: Allbirds
+  url: https://allbirds.com
+  cat:
+  - footwear
+- name: American Giant
+  url: https://www.american-giant.com/
+  cat:
+  - apparel
+- name: Away
+  url: https://awaytravel.com
+  cat:
+  - bags
+- name: AYR
+  url: https://www.ayr.com/
+  cat:
+  - apparel
+- name: Bonobos
+  url: https://bonobos.com
+  cat:
+  - apparel
+- name: Casper
+  url: https://casper.com
+  cat:
+  - home
+- name: Chubbies
+  url: https://chubbies.com
+  cat:
+  - apparel
+- name: Combatant Gentleman
+  url: https://combatgent.com
+  cat:
+  - apparel
+- name: Cotopaxi
+  url: https://www.cotopaxi.com/
+  cat:
+  - apparel
+- name: Cuyana
+  url: https://www.cuyana.com/
+  cat:
+  - apparel
+- name: Castlery
+  url: https://www.castlery.co/
+  cat:
+  - home
+- name: David Kind
+  url: https://davidkind.com/
+  cat:
+  - optical
+- name: Dollar Shave Club
+  url: https://www.dollarshaveclub.com/
+  cat:
+  - cpg
+- name: Eloquii
+  url: https://www.eloquii.com/
+  cat:
+  - apparel
+- name: Ernest Alexander
+  url: https://www.ernestalexander.com/
+  cat:
+  - bags
+- name: Everlane
+  url: https://everlane.com
+  cat:
+  - apparel
+- name: Fame and Partners
+  url: https://www.fameandpartners.com/
+  cat:
+  - apparel
+- name: Floyd
+  url: https://floydhome.com/
+  cat:
+  - home
+- name: Frank & Oak
+  url: https://www.frankandoak.com/
+  cat:
+  - apparel
+- name: Glossier
+  url: https://www.glossier.com/
+  cat:
+  - skin / body
+- name: Grana
+  url: https://www.grana.com/us/
+  cat:
+  - apparel
+- name: Greats
+  url: https://greatsbrand.com
+  cat:
+  - footwear
+- name: Harry’s
+  url: https://harrys.com
+  cat:
+  - cpg
+- name: Honest Company
+  url: https://www.honest.com/
+  cat:
+  - baby
+  - home
+  - skincare
+- name: Hungry Root
+  url: https://www.hungryroot.com/
+  cat:
+  - food
+- name: Indochino
+  url: https://indochino.com
+  cat:
+  - apparel
+- name: Interior Define
+  url: https://interiordefine.com
+  cat:
+  - home
+- name: Jack Erwin
+  url: https://jackerwin.com
+  cat:
+  - footwear
+- name: Jomers
+  url: https://jomers.com
+  cat:
+  - apparel
+  tag:
+  - men
+- name: Julep
+  url: https://www.julep.com/
+  cat:
+  - skin / body
+- name: Koio
+  url: https://www.koio.co/
+  cat:
+  - footwear
+- name: Kopari Beauty
+  url: https://koparibeauty.com/
+  cat:
+  - skin / body
+- name: Ledbury
+  url: https://ledbury.com
+  cat:
+  - apparel
+- name: M.Gemi
+  url: https://mgemi.com
+  cat:
+  - footwear
+- name: Mack Weldon
+  url: https://mackweldon.com
+  cat:
+  - apparel
+- name: Madison Reed
+  url: https://www.madison-reed.com/
+  cat:
+  - hair
+- name: Prose
+  url: https://www.prose.com/
+  cat:
+  - hair
+- name: Champo
+  url: https://www.champohaircare.com/
+  cat:
+  - hair
+- name: MM.LaFleur
+  url: https://mmlafleur.com/
+  cat:
+  - apparel
+  tag:
+  - women
+- name: Ministry of Supply
+  url: https://ministryofsupply.com
+  cat:
+  - apparel
+- name: Mizzen & Main
+  url: https://mizzenandmain.com
+  cat:
+  - apparel
+- name: Moment
+  url: https://www.shopmoment.com/
+  cat:
+  - tech
+- name: Monica & Andy
+  url: https://monicaandandy.com/
+  cat:
+  - baby
+- name: MVMT Watches
+  url: https://mvmt.com
+  cat:
+  - Watches
+- name: Tinker
+  url: https://tinkerwatches.com
+  cat:
+  - Watches
+- name: MeUndies
+  url: https://meundies.com
+  cat:
+  - apparel
+- name: Noble Brewer
+  url: https://www.noblebrewer.com/
+  cat:
+  - food / drink
+- name: Ora
+  url: https://www.ora.organic/
+  cat:
+  - wellness
+- name: Outdoor Voices
+  url: https://outdoorvoices.com
+  cat:
+  - apparel
+- name: Pact Coffee
+  url: https://www.pactcoffee.com/
+  cat:
+  - food / drink
+- name: Pact Underwear
+  url: https://wearpact.com/
+  cat:
+  - apparel
+- name: Parachute
+  url: https://www.parachutehome.com/
+  cat:
+  - home
+- name: Paul Evans
+  url: https://www.paulevansny.com/
+  cat:
+  - footwear
+- name: Pinrose
+  url: https://pinrose.com/
+  cat:
+  - fragrance
+- name: Primary
+  url: https://primary.com
+  cat:
+  - baby
+  - kids
+- name: Proper Cloth
+  url: https://propercloth.com
+  cat:
+  - clothing
+- name: Quip
+  url: https://www.getquip.com/
+  cat:
+  - cpg
+- name: Ratio Clothing
+  url: https://www.ratioclothing.com/
+  cat:
+  - apparel
+- name: Rockets of Awesome
+  url: https://rocketsofawesome.com
+  cat:
+  - kids
+  - apparel
+- name: Roka Sports
+  url: https://www.roka.com/
+  cat:
+  - optical
+- name: Simply Framed
+  url: https://simplyframed.com/
+  cat:
+  - home
+  tag:
+  - frames
+- name: Framebridge
+  url: https://www.framebridge.com/
+  cat:
+  - home
+- name: Primary Goods
+  url: https://primarygoods.com/
+  cat:
+  - home
+- name: Sole Bicycles
+  url: https://www.solebicycles.com/
+  cat:
+  - rec
+- name: Snowe
+  url: https://snowehome.com
+  cat:
+  - home
+- name: Stance
+  url: https://www.stance.com/
+  cat:
+  - apparel
+- name: Tea Collection
+  url: https://www.teacollection.com/
+  cat:
+  - kids
+- name: ThirdLove
+  url: https://thirdlove.com
+  cat:
+  - apparel
+- name: Tieks
+  url: https://tieks.com/
+  cat:
+  - footwear
+- name: Margaux
+  url: https://margauxny.com/
+  cat:
+  - footwear
+- name: Tommy John
+  url: https://tommyjohn.com/
+  cat:
+  - apparel
+- name: Tortuga
+  url: https://www.tortugabackpacks.com/
+  cat:
+  - bags
+- name: Tracksmith
+  url: https://www.tracksmith.com/
+  cat:
+  - apparel
+- name: Tuft & Needle
+  url: https://www.tuftandneedle.com/
+  cat:
+  - home
+  - bed
+- name: Warby Parker
+  url: https://warbyparker.com
+  cat:
+  - optical
+- name: WP Standard
+  url: https://wpstandard.com/
+  cat:
+  - bags
+  - accessories
+- name: Field Company
+  url: https://fieldcompany.com/
+  cat:
+  - cookware
+- name: Our Place
+  url: https://fromourplace.com/
+  cat:
+  - cookware
+- name: Great Jones
+  url: https://greatjonesgoods.com/
+  cat:
+  - cookware
+- name: Potluck
+  url: https://cookpotluck.com/
+  cat:
+  - cookware
+- name: Milo
+  url: https://www.cookwithmilo.com/
+  cat:
+  - cookware
+- name: Brigade Kitchen
+  url: https://brigadekitchen.com/
+  cat:
+  - cookware
+- name: Made In
+  url: https://madeincookware.com/
+  cat:
+  - cookware
+- name: Misen
+  url: https://misen.co
+  cat:
+  - cookware
+- name: Ensembl
+  url: https://www.getensembl.com/
+  cat:
+  - cookware
+- name: Equal Parts
+  url: https://equalparts.com/
+  cat:
+  - cookware
+- name: Caraway
+  url: https://www.carawayhome.com/
+  cat:
+  - cookware
+- name: Naadam
+  url: https://naadam.co/
+  cat:
+  - apparel
+- name: Brightland
+  url: https://brightland.co/
+  cat:
+  - food / drink
+- name: Magic Spoon
+  url: https://magicspoon.com/
+  cat:
+  - food / drink
+- name: Stojo
+  url: https://stojo.co/
+  cat:
+  - home
+- name: Backdrop
+  url: https://www.backdrophome.com/
+  cat:
+  - home
+- name: Bippy
+  url: https://heybippy.com/
+  cat:
+  - cpg
+- name: Blueland
+  url: https://www.blueland.com/
+  cat:
+  - home
+  - cleaning
+- name: Cleancult
+  url: https://www.cleancult.com/
+  cat:
+  - home
+  - cleaning
+- name: Brooklinen
+  url: https://www.brooklinen.com/
+  cat:
+  - home
+- name: Buffy
+  url: https://buffy.co/
+  cat:
+  - home
+- name: Clare
+  url: https://www.clare.com/
+  cat:
+  - home
+- name: Helix
+  url: https://helixsleep.com/
+  cat:
+  - home
+  - bed
+- name: Nectar
+  url: https://www.nectarsleep.com/
+  cat:
+  - home
+  - bed
+- name: Sunday
+  url: https://www.getsunday.com/
+  cat:
+  - home
+- name: The Inside
+  url: https://www.theinside.com/
+  cat:
+  - home
+- name: Weezie
+  url: https://weezietowels.com/
+  cat:
+  - home
+- name: Year & Day
+  url: https://yearandday.com/
+  cat:
+  - home
+- name: Supernatural
+  url: https://supernatural.com/
+  cat:
+  - home
+  - cleaning
+- name: Flamingo
+  url: https://www.shopflamingo.com/
+  cat:
+  - cpg
+- name: Estrid
+  url: https://estrid.com/
+  cat:
+  - cpg
+- name: Bev
+  url: https://www.drinkbev.com/
+  cat:
+  - food / drink
+- name: Dirty Lemon
+  url: https://dirtylemon.com/
+  cat:
+  - food / drink
+- name: Drip Kit
+  url: https://dripkit.coffee/
+  cat:
+  - food / drink
+- name: Haus
+  url: https://drink.haus/
+  cat:
+  - food / drink
+- name: Liquid Death
+  url: https://liquiddeath.com/
+  cat:
+  - food / drink
+- name: Nomad Trading Co
+  url: https://nomadtrading.co/
+  cat:
+  - food / drink
+- name: Sudden Coffee 
+  url: https://www.suddencoffee.com/
+  cat:
+  - food / drink
+- name: Ugly Drinks
+  url: https://uglydrinks.com/
+  cat:
+  - food / drink
+- name: Una Lou
+  url: https://www.unalourose.com/
+  cat:
+  - food / drink
+- name: Usual Wines
+  url: https://usualwines.com/
+  cat:
+  - food / drink
+- name: Lalo
+  url: https://meetlalo.com/
+  cat:
+  - baby
+- name: Mockingbird
+  url: https://hellomockingbird.com/
+  cat:
+  - baby
+- name: Pipette
+  url: https://pipettebaby.com/
+  cat:
+  - baby
+- name: Akabanga
+  url: https://akaban.ga/
+  cat:
+  - food / drink
+- name: Cereal School
+  url: https://thecerealschool.com/
+  cat:
+  - food / drink
+- name: The Coconut Cult
+  url: https://thecoconutcult.com/
+  cat:
+  - food / drink
+- name: Mylk Labs
+  url: https://www.mylklabs.com/
+  cat:
+  - food / drink
+- name: Plantable
+  url: https://plantable.com/
+  cat:
+  - food / drink
+  - meals
+- name: Splendid Spoon
+  url: https://splendidspoon.com/
+  cat:
+  - food / drink
+  - meals
+- name: Taste Plants
+  url: https://tasteplants.com/
+  cat:
+  - food / drink
+- name: Wonder Valley
+  url: https://welcometowondervalley.com/
+  cat:
+  - food / drink
+- name: Pin
+  url: https://chewpin.com/
+  cat:
+  - food / drink
+- name: Yumi
+  url: https://helloyumi.com/
+  cat:
+  - food / drink
+  - baby
+- name: Ernest
+  url: https://www.ernestpet.com/
+  cat:
+  - pet
+- name: Good Boy
+  url: https://trygoodboy.com/
+  cat:
+  - pet
+- name: Ollie
+  url: https://www.myollie.com/
+  cat:
+  - pet
+- name: Smalls
+  url: https://www.smallsforsmalls.com/
+  cat:
+  - pet
+- name: Henry Rose
+  url: https://henryrose.com
+  cat:
+  - fragrance
+- name: Baina
+  url: https://www.shopbaina.com/
+  cat:
+  - home
+- name: Bite
+  url: https://bitetoothpastebits.com
+  cat:
+  - cpg
+- name: Campaign
+  url: https://www.campaignliving.com
+  cat:
+  - home
+- name: Atoms
+  url: https://atoms.com
+  cat:
+  - footwear
+- name: J. Stark
+  url: https://starkmade.com/
+  cat:
+  - bags

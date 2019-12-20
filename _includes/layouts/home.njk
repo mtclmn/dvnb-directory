@@ -1,0 +1,71 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-home
+---
+
+<main class="py3 px1">
+
+	<section class="c9 mt5 mb4">
+	<h1 class="midnight">A directory of digitally native vertical brands &mdash;</h1>
+	</section>
+
+	<input type="text" class="search" placeholder="Search" onkeyup="filterNames()">
+
+	<section class="c12">
+
+	{% set alpha = ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","X","Y","Z"] %}
+	
+	<div class="the-list">
+	{%- for letter in alpha -%}
+	{% set count = 0 %}
+
+		{%- for co in brands | sort(attribute="name") -%}
+			{% set firstletter = co.name | first %}
+			{% if firstletter == letter %}
+				{% set count = count + 1 %}
+		  {% endif %}
+		{%- endfor -%}
+
+		{% if count > 0 %}
+		<div>
+
+			<ul class="xo2">
+			{%- for co in brands | sort(attribute="name") -%}
+				{% set firstletter = co.name | first %}
+				{% if firstletter == letter %}
+				  <li data-brand>
+				  	<a href="{{ co.url }}" data-brand-name>{{ co.name }}</a>
+				  	<span>
+				  		{%- for cat in co.cat | sort -%}
+				  		{% if cat == 'cpg' %}
+				  		<span>{{ cat | upper }}</span>
+				  		{% else %}
+				  		<span>{{ cat | title }}</span>
+				  		{% endif %}
+				  		{%- endfor -%}
+				  	</span>
+				  </li>
+			  {% endif %}
+			{%- endfor -%}
+			</ul>
+
+			<span class="xo1"><span>{{ letter }}</span></span>
+
+			{% set count = 0 %}
+
+		</div>
+
+		{% endif %}
+	{%- endfor -%}
+
+	</div>
+
+	<div data-no-results>
+		<p>No results</p>
+	</div>
+
+	</section>
+
+</main>
+
+{{ content | safe }}
