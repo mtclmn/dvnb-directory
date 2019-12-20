@@ -1,10 +1,17 @@
 var results = 0;
 var noEl = document.querySelector("[data-no-results]");
+var suggestToggle = document.querySelectorAll("[data-suggest-toggle]");
 
 function filterNames() {
-  var input, filter, list, person, name, i;
+  var input, inputVal, filter, list, person, name, i;
   input = document.querySelector(".search");
-  filter = input.value.toUpperCase();
+  submitInput = document.querySelector(".submit-search");
+  if (submitInput.value.length > 0) {
+    inputVal = submitInput.value
+  } else {
+    inputVal = input.value
+  }
+  filter = inputVal.toUpperCase();
   brands = document.querySelectorAll("[data-brand]");
   results = 0;
   for (i = 0; i < brands.length; i++) {
@@ -32,3 +39,12 @@ function filterNames() {
   }
 
 }
+
+function toggleSubmit(e) {
+  e.preventDefault();
+  var suggestEl = document.querySelector('.suggest');
+  suggestEl.classList.toggle('is-visible');
+}
+suggestToggle.forEach((el) => {
+  el.addEventListener("click", toggleSubmit);
+});

@@ -20,11 +20,36 @@
 
 	</main>
 
+	<aside class="suggest">
+		<div>
+			<header>
+				<span class="close" aria-label="Close Suggestion Form" data-suggest-toggle>&times;</span>
+				<h3>Suggest a Brand</h3>
+			</header>
+			<div class="suggest__options">
+				<div class="suggest__options__form">
+					<form name="contact" method="POST" data-netlify="true">
+						<label for="">Brand Name</label>
+						<input type="text" id="brandname" name="brandname" class="submit-search" onkeyup="filterNames()">
+						<label for="">Site URL</label>
+						<input type="text" id="url" name="url">
+						<button type="submit">Submit</button>
+					</form>
+				</div>
+				<div class="suggest__options__git">
+					<p>Have a Github Account?</p>
+					<a href="{{ metadata.suggestUrl }}">Submit Suggestion</a> <span>or</span>
+					<a href="{{ metadata.repo }}">Pull Request</a>
+				</div>
+			</div>
+		</div>
+	</aside>
+
 	<footer class="mx1 my1 py1">
 		<span>&copy; 2019</span>
 		<nav>
 			<a href="https://ecomm.gallery">Ecomm Gallery</a>
-			<a href="#">Suggest</a>
+			<a href="#" data-suggest-toggle>Suggest</a>
 		</nav>
 	</footer>
 

@@ -1,7 +1,8 @@
 {
   "title": "DNVB Directory | DTC, CPG, and Digitally Native Vertical Brands",
   "url": "https://dnvb.directory",
-  "repo": "#",
+  "suggestUrl": "https://github.com/mtclmn/dvnb-directory/issues/new?template=site-suggestion.md&title=Suggestion%3A+%5BBrand+Name%5D",
+  "repo": "https://github.com/mtclmn/dvnb-directory",
   "description": "A directory of digitally native vertical brands",
   "author": {
     "name": "Quiet Corp"
