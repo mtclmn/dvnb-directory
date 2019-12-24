@@ -185,11 +185,11 @@
 - name: MVMT Watches
   url: https://mvmt.com
   cat:
-  - Watches
+  - watches
 - name: Tinker
   url: https://tinkerwatches.com
   cat:
-  - Watches
+  - watches
 - name: MeUndies
   url: https://meundies.com
   cat:
@@ -652,3 +652,43 @@
   url: https://taftclothing.com/
   cat:
   - footwear
+- name: Larq
+  url: https://www.livelarq.com/
+  cat:
+  - home
+- name: Public Rec
+  url: https://publicrec.com/
+  cat:
+  - apparel
+- name: Akila
+  url: https://akila.la/
+  cat:
+  - optical
+- name: Nothing New
+  url: https://nothingnew.com/
+  cat:
+  - footwear
+- name: Rhone
+  url: https://www.rhone.com/
+  cat:
+  - apparel
+- name: Rakoh
+  url: https://rakoh.com/
+  cat:
+  - footwear
+- name: Suavs
+  url: https://www.suavshoes.com/
+  cat:
+  - footwear
+- name: Thousand Fell
+  url: https://www.thousandfell.com/
+  cat:
+  - footwear
+- name: Breda
+  url: https://www.bredawatch.com/
+  cat:
+  - watches
+- name: Harvest & Mill
+  url: https://www.harvestandmill.com/
+  cat:
+  - apparel
