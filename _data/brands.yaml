@@ -198,6 +198,10 @@
   url: https://www.noblebrewer.com/
   cat:
   - food / drink
+- name: Okana
+  url: https://drinkokana.com/
+  cat:
+  - food / drink
 - name: Ora
   url: https://www.ora.organic/
   cat:
